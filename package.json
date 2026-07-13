@@ -24,7 +24,7 @@
     "@fortawesome/free-brands-svg-icons": "^6.7.2",
     "@fortawesome/free-regular-svg-icons": "^6.7.2",
     "@fortawesome/free-solid-svg-icons": "^6.7.2",
-    "bootstrap": "^5.2.0",
+    "bootstrap": "^5.3.8",
     "firebase": "^9.9.2",
     "ngx-toastr": "^15.0.0",
     "rxjs": "~7.5.0",
